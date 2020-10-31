@@ -5,4 +5,4 @@ Add some of your favourite quotes to the README
 “When you are backed against the wall, break the goddamn thing down.” – Harvey Specter.
 
 # DevOps quotes
-"Making mistakes in human ... automating them is DevOps" ~ unknown
+"Making mistakes is human ... automating them is DevOps" ~ unknown
